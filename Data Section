@@ -1,0 +1,9 @@
+In order to determine the best location for our client to open his Gym, we have extracted data on the Barrios 
+from Ponce through the following link "https://en.wikipedia.org/wiki/List_of_Barrios_of_Ponce,_Puerto_Rico". 
+Since there is no available table that includes the geocoordinates they have been manually retrieved from google maps. 
+With this data on hand, Foursquare API was used to retrieve information on venues for each of the Barrios that were evaluated. 
+Some Barrios did not have available venue information through Foursquare. These Barrios were filtered out for the purpose of the 
+analysis. With the available data, k-means clustering was implemented on the Barrios in Ponce. The goal through this clustering 
+was to evaluate the cluster where for some Barrios gym was among the 5th most common venues. Those Barrios that did not already 
+have a venue for category gym would be viable options for the location of our client's business. 
+
