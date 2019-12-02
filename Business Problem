@@ -1,8 +1,0 @@
-Introduction
-
-A client that has had experience managing multiple gym facilities is looking to branch off and start his own establishment. He
-has most of the aspects business plan laid out, however, he needs consulting regarding a more specific location for his
-gym. The client has already determined he will open the gym in his hometown of Ponce, Puerto Rico. Ponce is divided
-in 30 Barrios that we can choose from in regards to the placement of this establishment. Our job is to leverage existing data, 
-geolocation, and clustering techniques so as to determine the optimal location for his business. 
-
